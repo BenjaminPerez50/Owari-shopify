@@ -1,0 +1,808 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "service_qTMLfj": {
+      "type": "service",
+      "blocks": {
+        "service_tT6ejT": {
+          "type": "service",
+          "settings": {
+            "paddingbox": "0px 0px 0px 0px",
+            "border_width": "",
+            "bgblock": "#ffffff",
+            "title": "Worldwide delivery",
+            "description": "Delivery of goods all over \n<br>\nthe world",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"39\" height=\"40\" viewbox=\"0 0 39 40\" fill=\"none\">\n<path d=\"M30.1933 0.416251C30.015 0.178689 29.6585 0 29.3612 0H8.91536C8.55881 0 8.26155 0.178275 8.08328 0.416251L0.237562 10.4012C0.118574 10.5795 0 10.8175 0 11.055V38.9304C0 39.5249 0.475539 40 1.06963 40H37.2065C37.801 40 38.2761 39.5245 38.2761 38.9304V11.055C38.2761 10.8175 38.2169 10.5795 38.0386 10.4012L30.1933 0.416251ZM20.2079 2.13967H28.826L34.9478 9.92564H20.1484L20.1488 2.13967H20.2079ZM9.45005 2.13967H18.0681V9.92564H3.26863L9.45005 2.13967ZM36.1367 37.8011H2.13946V12.1249H36.1367V37.8011Z\" fill=\"#CCCCCC\"></path>\n<path d=\"M10.6982 27.1028C10.6982 26.5083 11.1738 26.0332 11.7679 26.0332H26.4485C27.043 26.0332 27.5181 26.5087 27.5181 27.1028C27.5181 27.6974 27.0426 28.1725 26.4485 28.1725H11.7679C11.233 28.1729 10.6982 27.6973 10.6982 27.1028ZM10.6982 32.5116C10.6982 31.9171 11.1738 31.442 11.7679 31.442H26.4485C27.043 31.442 27.5181 31.9175 27.5181 32.5116C27.5181 33.1061 27.0426 33.5812 26.4485 33.5812H11.7679C11.233 33.5812 10.6982 33.1061 10.6982 32.5116Z\" fill=\"#4158F2\"></path>\n</svg>"
+          }
+        },
+        "service_EPmp9V": {
+          "type": "service",
+          "settings": {
+            "paddingbox": "0px 0px 0px 0px",
+            "border_width": "",
+            "bgblock": "#ffffff",
+            "title": "Satisfied or Refunded",
+            "description": "Guaranteed product quality \n<br>\nand warranty",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"40\" viewbox=\"0 0 44 40\" fill=\"none\">\n<path d=\"M43.5974 19.9997C43.5974 31.0447 34.642 40 23.5971 40C12.5522 40 3.59684 31.0447 3.59684 19.9997C3.59684 19.8207 3.65639 19.6416 3.71636 19.5221L1.74619 21.4922C1.56711 21.6713 1.26852 21.7908 1.02989 21.7908C0.79126 21.7908 0.492664 21.6713 0.313589 21.4922C-0.10453 21.0741 -0.10453 20.4178 0.313589 20.0593L3.95543 16.4174C4.07495 16.2979 4.19406 16.2384 4.31358 16.1788C4.61217 16.0593 4.97032 16.0593 5.26891 16.2983C5.32846 16.3579 5.38843 16.3579 5.44798 16.4179L9.08982 20.0597C9.50794 20.4778 9.50794 21.1341 9.08982 21.4927C8.91075 21.6717 8.61215 21.7913 8.37352 21.7913C8.1349 21.7913 7.8363 21.6717 7.65722 21.4927L5.68705 19.5225C5.7466 19.642 5.80657 19.8211 5.80657 20.0002C5.80657 29.9108 13.8666 37.9705 23.777 37.9705C33.6876 37.9705 41.7473 29.9105 41.7473 20.0002C41.7473 10.0895 33.6873 2.02977 23.777 2.02977C18.8812 2.02977 14.344 3.94046 10.941 7.46278C10.5228 7.8809 9.86654 7.8809 9.508 7.46278C9.08989 7.04467 9.08989 6.38836 9.508 6.02982C13.3289 2.14939 18.4037 5.8083e-08 23.8365 5.8083e-08C34.6427 -0.000832789 43.5974 8.95503 43.5974 19.9997Z\" fill=\"#CCCCCC\"></path>\n<path d=\"M23.597 9.19385C23.0598 9.19385 22.5821 9.67152 22.5821 10.2087V12.358H22.1045C19.7166 12.358 17.8059 14.2687 17.8059 16.6566C17.8059 19.0445 19.7166 20.9551 22.1045 20.9551H25.0896C26.3435 20.9551 27.3584 21.97 27.3584 23.2239C27.3584 24.4779 26.3435 25.4927 25.0896 25.4927H25.03H24.9705H19.657C19.1198 25.4927 18.6421 25.9704 18.6421 26.5076C18.6421 27.0448 19.1198 27.5225 19.657 27.5225H22.5226V29.6718C22.5226 30.209 23.0003 30.6867 23.5375 30.6867C24.0747 30.6867 24.5524 30.209 24.5524 29.6718V27.5225H24.9105H24.9701H25.0296C27.4175 27.5225 29.3282 25.6118 29.3282 23.2239C29.3282 20.8361 27.4175 18.9254 25.0296 18.9254H22.0445C20.7905 18.9254 19.7757 17.9105 19.7757 16.6566C19.7757 15.4027 20.7906 14.3878 22.0445 14.3878H27.358C27.8952 14.3878 28.3729 13.9101 28.3729 13.3729C28.3729 12.8357 27.8952 12.358 27.358 12.358H24.6115V10.2087C24.6714 9.67151 24.1938 9.19385 23.597 9.19385Z\" fill=\"#4158F2\"></path>\n</svg>"
+          }
+        },
+        "service_zX3Mtq": {
+          "type": "service",
+          "settings": {
+            "paddingbox": "0px 0px 0px 0px",
+            "border_width": "",
+            "bgblock": "#ffffff",
+            "title": "Top-Notch Support",
+            "description": "Our live chat support is available \n<br>\n.Monday through Saturday",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"37\" height=\"48\" viewbox=\"0 0 37 48\" fill=\"none\">\n<path d=\"M31.9035 24.1664H23.9276V18.4574C23.9276 16.0185 23.2074 14.245 21.8228 13.2471C19.6075 11.5842 16.5611 12.5264 16.3949 12.5821C16.007 12.693 15.7304 13.0808 15.7304 13.469V19.8987C15.7304 22.005 14.7336 23.7785 12.7948 25.1642C11.244 26.2727 9.63756 26.7162 9.63756 26.7162C9.47143 26.7715 9.3053 26.8824 9.19442 26.9934C8.69602 26.2727 7.86502 25.8292 6.92343 25.8292H2.82466C1.27381 25.8292 0 27.104 0 28.6559V44.2311C0 45.783 1.27381 47.0578 2.82466 47.0578H6.92343C7.75409 47.0578 8.47428 46.6696 9.02825 46.1156C9.96979 47.2797 11.4097 48 13.0162 48H28.7462C32.2357 48 34.5063 46.1709 34.8942 42.956L36.999 29.5979V29.3764V29.3211C37.0543 26.4392 34.7834 24.1664 31.9035 24.1664ZM7.86534 44.2312C7.86534 44.7299 7.47745 45.1181 6.97906 45.1181H2.88029C2.38189 45.1181 1.994 44.7299 1.994 44.2312V28.656C1.994 28.1573 2.3819 27.7691 2.88029 27.7691H6.97906C7.47745 27.7691 7.86534 28.1573 7.86534 28.656V44.2312ZM33.0666 42.6792C32.7896 44.9518 31.3497 46.1156 28.8017 46.1156H26.3646L18.5552 46.116H13.0721C11.2443 46.116 9.8043 44.675 9.8043 42.8459V28.7119V28.6566H9.97043C10.0813 28.6566 10.1366 28.6566 10.2474 28.6013C10.5797 28.4903 17.725 26.4396 17.725 19.899V14.2452C18.5004 14.1343 19.8298 14.079 20.7714 14.744C21.6576 15.409 22.1008 16.6284 22.1008 18.4576V25.1089C22.1008 25.6076 22.5439 26.0511 23.0423 26.0511H31.9597C33.7875 26.0511 35.2274 27.4921 35.2274 29.3212V29.3765L33.0666 42.6792Z\" fill=\"#CCCCCC\"></path>\n<path d=\"M19.0537 0C19.5521 0 19.9952 0.44347 19.9952 0.942219V8.25885C19.9952 8.75761 19.552 9.20107 19.0537 9.20107C18.5553 9.20107 18.1121 8.7576 18.1121 8.25885V0.942219C18.1121 0.44346 18.5553 0 19.0537 0ZM27.5835 16.462H34.8949C35.3933 16.462 35.8364 16.9055 35.8364 17.4042C35.8364 17.9029 35.3932 18.3464 34.8949 18.3464H27.5835C27.0851 18.3464 26.642 17.9029 26.642 17.4042C26.642 16.9055 27.0847 16.462 27.5835 16.462ZM31.9037 3.93536C32.2916 4.32354 32.2916 4.93285 31.9037 5.26572L26.7529 10.4203C26.5868 10.5865 26.3098 10.6975 26.0884 10.6975C25.867 10.6975 25.59 10.5865 25.4238 10.4203C25.0359 10.0321 25.0359 9.42278 25.4238 9.08992L30.5747 3.93536C30.9622 3.54717 31.5714 3.54717 31.9037 3.93536ZM12.7397 17.4042C12.7397 17.903 12.2965 18.3465 11.7981 18.3465H3.21339C2.71499 18.3465 2.27185 17.903 2.27185 17.4042C2.27185 16.9055 2.715 16.462 3.21339 16.462H11.7981C12.2965 16.462 12.7397 16.9055 12.7397 17.4042ZM12.6844 10.4758C12.5183 10.6421 12.2413 10.753 12.0199 10.753C11.7985 10.753 11.5215 10.6421 11.3554 10.4758L6.20454 5.32124C5.81664 4.93306 5.81664 4.32374 6.20454 3.99088C6.59244 3.6027 7.20132 3.6027 7.53394 3.99088L12.6848 9.14545C13.0719 9.47834 13.0719 10.088 12.6844 10.4758Z\" fill=\"#4158F2\"></path>\n</svg>"
+          }
+        },
+        "service_nYkwkw": {
+          "type": "service",
+          "settings": {
+            "paddingbox": "0px 0px 0px 0px",
+            "border_width": "",
+            "bgblock": "#ffffff",
+            "title": "Secure Payments",
+            "description": "Your payment information is\n<br>\n processed securely",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"35\" height=\"40\" viewbox=\"0 0 35 40\" fill=\"none\">\n<path d=\"M0.426744 24.9181C1.0957 27.7157 2.5554 30.2698 4.92699 32.6414C7.96762 35.6821 11.7989 38.0538 16.603 39.8783C16.8461 39.9389 17.0289 40 17.3326 40C17.6368 40 17.9409 39.9393 18.2446 39.8176C18.5488 39.6958 18.7919 39.5745 19.096 39.4528C20.2515 38.9662 21.4677 38.419 22.6838 37.8107C26.5758 35.7432 29.4947 33.3715 31.6233 30.4522C33.5084 27.8981 34.4815 25.344 34.6032 22.6076C34.6032 22.0604 34.6639 21.452 34.6639 20.8442L34.7245 15.4319V15.3712V13.2426V7.952C34.7245 7.1613 34.4204 6.18865 32.9612 6.00578C32.657 5.94512 32.3529 5.94512 31.9881 5.88403C31.015 5.76229 30.103 5.64097 29.1905 5.45814C25.724 4.66744 22.3796 3.14715 18.7307 0.593021C17.5752 -0.197674 17.0887 -0.197674 15.9331 0.593021C11.0074 3.99842 6.5682 5.70117 1.94622 6.00534C0.608343 6.066 0 6.73496 0 8.134V11.6005V21.3914C0.00127261 22.4858 0.122594 23.7019 0.426744 24.9181ZM2.00809 11.5394V8.07282C7.05554 7.76867 11.7989 5.94416 17.0288 2.29573C17.0895 2.23507 17.1506 2.23507 17.2112 2.17398C17.2719 2.23464 17.333 2.29573 17.3936 2.29573C21.2249 4.97159 24.9345 6.67424 28.5831 7.46502C29.5562 7.70809 30.59 7.82983 31.5631 7.89091C31.8672 7.95157 32.1103 7.95157 32.4144 8.01266V13.1819V15.2495V15.3101L32.3538 20.6007V20.7831C32.3538 21.3914 32.3538 21.9993 32.2931 22.4859C32.1714 24.7358 31.3811 26.9251 29.739 29.1755C27.7928 31.8513 25.0563 34.0406 21.4685 35.9257C20.374 36.534 19.2185 37.0201 18.0631 37.5067C17.7589 37.6284 17.5158 37.7498 17.2117 37.8715H17.151C12.6508 36.1688 9.06296 33.9795 6.26558 31.1213C4.13692 28.9927 2.86019 26.8034 2.31298 24.3711C2.06991 23.3374 1.94817 22.3036 1.94817 21.2698C2.00798 18.1074 2.00809 14.7624 2.00809 11.5394Z\" fill=\"#CCCCCC\"></path>\n<path d=\"M12.2246 17.2557C12.2246 15.1881 13.9274 13.4854 15.9949 13.4854H16.1773V11.9044C16.1773 11.3572 16.6638 10.8706 17.2111 10.8706C17.7583 10.8706 18.2448 11.3572 18.2448 11.9044V13.4854H20.3735C20.9207 13.4854 21.4072 13.9719 21.4072 14.5191C21.4072 15.0664 20.9207 15.5529 20.3735 15.5529H15.9343C15.0222 15.5529 14.2315 16.3436 14.2315 17.2557C14.2315 18.1677 15.0222 18.9584 15.9343 18.9584H18.4277C20.4952 18.9584 22.198 20.6612 22.198 22.7287C22.198 24.7962 20.4952 26.499 18.4277 26.499H18.367H18.3064H18.1846V28.141C18.1846 28.6882 17.6981 29.1748 17.1509 29.1748C16.6036 29.1748 16.1171 28.6882 16.1171 28.141V26.499H13.9278C13.3806 26.499 12.8941 26.0124 12.8941 25.4652C12.8941 24.918 13.3806 24.4314 13.9278 24.4314H18.3671H18.4277H18.4884C19.4004 24.4314 20.1911 23.6407 20.1911 22.7287C20.1911 21.8167 19.4004 21.0259 18.4884 21.0259H15.9949C13.9274 21.0866 12.2246 19.3839 12.2246 17.2557Z\" fill=\"#4158F2\"></path>\n</svg>"
+          }
+        }
+      },
+      "block_order": [
+        "service_tT6ejT",
+        "service_EPmp9V",
+        "service_zX3Mtq",
+        "service_nYkwkw"
+      ],
+      "name": "Services",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "title_sp": "",
+        "des": "",
+        "align-heading": "center",
+        "bg_box": "rgba(0,0,0,0)",
+        "iconcolor": "#222222",
+        "titlecolor": "#000000",
+        "subcolor": "#999999",
+        "size": 0,
+        "service_heading": "h6",
+        "layout": "style-2",
+        "enable_carousel": false,
+        "arrows": false,
+        "draggable": true,
+        "dots": false,
+        "infinite": true,
+        "paddingsection": "50px 0px 50px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "20px 0px 20px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "grid_banner_k3wbkE": {
+      "type": "grid-banner",
+      "blocks": {
+        "banner_nYyCJQ": {
+          "type": "banner",
+          "settings": {
+            "width": "6",
+            "image": "shopify://shop_images/a-h2-banner_1.jpg",
+            "subtitle": "<sp style=\"font-weight:800;\">\nbuy more, get more\n</sp>",
+            "color_subtitle": "#4158f2",
+            "title": "original\n<br>\nengine oil",
+            "color_heading": "#000000",
+            "size_text": "h2",
+            "description": "Free shipping on all products",
+            "bg_color": "#000000",
+            "colordef": "#000000",
+            "opacity_bg": 0,
+            "style_btn": "btn-underline btn-underline-white",
+            "size_btn": "",
+            "button_text": "",
+            "button_link": "",
+            "vertical": "mid",
+            "horizontal": "left",
+            "text_align": "left"
+          }
+        },
+        "banner_FajybQ": {
+          "type": "banner",
+          "settings": {
+            "width": "6",
+            "image": "shopify://shop_images/a-h2-banner_2.jpg",
+            "subtitle": "",
+            "color_subtitle": "#ffffff",
+            "title": "<sp style=\"\n    display: block;\n    font-weight: 500;\n\">\nnew\n<br>\naccessories\n</sp>\nare here",
+            "color_heading": "#ffffff",
+            "size_text": "h2",
+            "description": "<sp style=\"\n    text-transform: uppercase;\n    font-weight: 800;\n\">\nup to 30% off\n</sp>",
+            "bg_color": "rgba(0,0,0,0)",
+            "colordef": "#ffc122",
+            "opacity_bg": 0,
+            "style_btn": "btn-underline btn-underline-white",
+            "size_btn": "",
+            "button_text": "",
+            "button_link": "",
+            "vertical": "mid",
+            "horizontal": "left",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_nYyCJQ",
+        "banner_FajybQ"
+      ],
+      "name": "Grid banner",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "no_gutter": false,
+        "show_overlay": true,
+        "gradient_overlay": true,
+        "bg_overlay": "#000000",
+        "opacity_overlay": 0.4,
+        "padding_inner": "0px 46px 0px 46px",
+        "paddingsection": "0px 0px 50px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 20px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "featured_collections_7_rwVCyJ": {
+      "type": "featured-collections-7",
+      "blocks": {
+        "collection_N3X4Ec": {
+          "type": "collection",
+          "settings": {
+            "collection": "lighting",
+            "image": "shopify://shop_images/a-h2-collec_8.png"
+          }
+        },
+        "collection_dVig6G": {
+          "type": "collection",
+          "settings": {
+            "collection": "seat-parts",
+            "image": "shopify://shop_images/a-h2-collec_4.png"
+          }
+        },
+        "collection_9qk3fc": {
+          "type": "collection",
+          "settings": {
+            "collection": "filters",
+            "image": "shopify://shop_images/a-h2-collec_7.png"
+          }
+        },
+        "collection_pYfVHY": {
+          "type": "collection",
+          "settings": {
+            "collection": "exhaust-system",
+            "image": "shopify://shop_images/a-h2-collec_3.png"
+          }
+        },
+        "collection_33qcim": {
+          "type": "collection",
+          "settings": {
+            "collection": "wheels-tires",
+            "image": "shopify://shop_images/a-h2-collec_6.png"
+          }
+        },
+        "collection_xMpR46": {
+          "type": "collection",
+          "settings": {
+            "collection": "suspension-systems",
+            "image": "shopify://shop_images/a-h2-collec_2.png"
+          }
+        },
+        "collection_H8tpky": {
+          "type": "collection",
+          "settings": {
+            "collection": "brakes-system",
+            "image": "shopify://shop_images/a-h2-collec_5.png"
+          }
+        },
+        "collection_tEtj6q": {
+          "type": "collection",
+          "settings": {
+            "collection": "electric",
+            "image": "shopify://shop_images/a-h2-collec_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "collection_N3X4Ec",
+        "collection_dVig6G",
+        "collection_9qk3fc",
+        "collection_pYfVHY",
+        "collection_33qcim",
+        "collection_xMpR46",
+        "collection_H8tpky",
+        "collection_tEtj6q"
+      ],
+      "name": "Collection list slide",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "space": 5,
+        "size_text": "p",
+        "bg_item": "#f5f5f5",
+        "enable_carousel": true,
+        "show": 4,
+        "rows": "2",
+        "size_image": "auto",
+        "width_custom": "50",
+        "arrows": false,
+        "draggable": true,
+        "dots": false,
+        "infinite": true,
+        "paddingsection": "0px 0px 50px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 10px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "product_tab_3_KW3KMV": {
+      "type": "product-tab-3",
+      "blocks": {
+        "collection_7pzDJe": {
+          "type": "collection",
+          "settings": {
+            "title": "popular",
+            "collection": "brakes-system"
+          }
+        },
+        "collection_iw6yhn": {
+          "type": "collection",
+          "settings": {
+            "title": "featured",
+            "collection": "electric"
+          }
+        },
+        "collection_YEWPVG": {
+          "type": "collection",
+          "settings": {
+            "title": "top rated",
+            "collection": "exhaust-system"
+          }
+        }
+      },
+      "block_order": [
+        "collection_7pzDJe",
+        "collection_iw6yhn",
+        "collection_YEWPVG"
+      ],
+      "name": "Product tab swiper",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#f5f5f5",
+        "title": "body & trim",
+        "button_heading": "View All",
+        "link_heading": "shopify://collections",
+        "style_btn": "btn-underline",
+        "style_tab": "line",
+        "banner_right": false,
+        "image": "shopify://shop_images/a-h2-banner_3.jpg",
+        "subtitle_banner": "get extra 10% off",
+        "color_sub": "#ffc122",
+        "title_banner": "<sp style=\"\n    font-weight: 500;\n    display: block;\n\">\nworldwide\n</sp>\ndelivery",
+        "color_title": "#ffffff",
+        "size_text": "h3",
+        "button": "shop now",
+        "link": "shopify://collections/all",
+        "style_btn_banner": "btn-underline btn-underline-white",
+        "limit": 10,
+        "perviewDesktop": 4,
+        "perviewTablet": 2,
+        "perviewMobile": 1,
+        "spaceBetween": 0,
+        "arrows": true,
+        "arrow_heading": true,
+        "scrollbar": false,
+        "paddingsection": "40px 0px 40px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "product_tab_3_jqcfeg": {
+      "type": "product-tab-3",
+      "blocks": {
+        "collection_h96DwE": {
+          "type": "collection",
+          "settings": {
+            "title": "popular",
+            "collection": "brakes-system"
+          }
+        },
+        "collection_LdYNP4": {
+          "type": "collection",
+          "settings": {
+            "title": "featured",
+            "collection": "electric"
+          }
+        },
+        "collection_xd4dHV": {
+          "type": "collection",
+          "settings": {
+            "title": "top rated",
+            "collection": "exhaust-system"
+          }
+        }
+      },
+      "block_order": [
+        "collection_h96DwE",
+        "collection_LdYNP4",
+        "collection_xd4dHV"
+      ],
+      "name": "Product tab swiper",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#f5f5f5",
+        "title": "electrical parts",
+        "button_heading": "View All",
+        "link_heading": "shopify://collections",
+        "style_btn": "btn-underline",
+        "style_tab": "line",
+        "banner_right": true,
+        "image": "shopify://shop_images/a-h2-banner_4.jpg",
+        "subtitle_banner": "find parts",
+        "color_sub": "#f14141",
+        "title_banner": "<sp style=\"\n    font-weight: 500;\n    display: block;\n\">\nbig brands\n</sp>\nhot price",
+        "color_title": "#ffffff",
+        "size_text": "h3",
+        "button": "shop now",
+        "link": "shopify://collections/all",
+        "style_btn_banner": "btn-underline btn-underline-white",
+        "limit": 10,
+        "perviewDesktop": 4,
+        "perviewTablet": 2,
+        "perviewMobile": 1,
+        "spaceBetween": 0,
+        "arrows": true,
+        "arrow_heading": true,
+        "scrollbar": false,
+        "paddingsection": "0px 0px 40px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "product_tab_3_XyrNdQ": {
+      "type": "product-tab-3",
+      "blocks": {
+        "collection_wiC9PF": {
+          "type": "collection",
+          "settings": {
+            "title": "popular",
+            "collection": "brakes-system"
+          }
+        },
+        "collection_iLfTgf": {
+          "type": "collection",
+          "settings": {
+            "title": "featured",
+            "collection": "electric"
+          }
+        },
+        "collection_QgqXRE": {
+          "type": "collection",
+          "settings": {
+            "title": "top rated",
+            "collection": "exhaust-system"
+          }
+        }
+      },
+      "block_order": [
+        "collection_wiC9PF",
+        "collection_iLfTgf",
+        "collection_QgqXRE"
+      ],
+      "name": "Product tab swiper",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#f5f5f5",
+        "title": "cooling & heating",
+        "button_heading": "View All",
+        "link_heading": "shopify://collections",
+        "style_btn": "btn-underline",
+        "style_tab": "line",
+        "banner_right": false,
+        "image": "shopify://shop_images/a-h2-banner_5.jpg",
+        "subtitle_banner": "quality products",
+        "color_sub": "#4158f2",
+        "title_banner": "<sp style=\"\n    font-weight: 500;\n    display: block;\n\">\nshop with\n</sp>\nconfidence",
+        "color_title": "#ffffff",
+        "size_text": "h3",
+        "button": "shop now",
+        "link": "shopify://collections/all",
+        "style_btn_banner": "btn-underline btn-underline-white",
+        "limit": 10,
+        "perviewDesktop": 4,
+        "perviewTablet": 2,
+        "perviewMobile": 1,
+        "spaceBetween": 0,
+        "arrows": true,
+        "arrow_heading": true,
+        "scrollbar": false,
+        "paddingsection": "0px 0px 40px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "parallax_banner_w8H3fq": {
+      "type": "parallax-banner",
+      "blocks": {
+        "paragraph_gariyx": {
+          "type": "paragraph",
+          "settings": {
+            "subtext": "<h4 style=\"\n    text-transform: uppercase;\n\">\nuse code \n<sp style=\"color: var(--g-main-2)\">\n“save25”\n</sp>\n to save 25$ your first purchase\n</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "paragraph_gariyx"
+      ],
+      "name": "Parallax banner",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#f5f5f5",
+        "parrallax_enable": true,
+        "image": "shopify://shop_images/a-h2-imgbanner.jpg",
+        "height_section": "100",
+        "height_section_mobile": "350",
+        "align": "center",
+        "position_text": "mid-center",
+        "bg_box": "rgba(0,0,0,0)",
+        "opacity_bgbox": 1,
+        "title_color": "#ffffff",
+        "color_textbody": "rgba(0,0,0,0)",
+        "bg_overlay": "#000000",
+        "padding_inner": "0px 0px 0px 0px",
+        "gradient_bg": "",
+        "opacity_bg_overlay": 0,
+        "paddingsection": "0px 0px 40px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "advanced_content_xqyWdR": {
+      "type": "advanced-content",
+      "blocks": {
+        "productcustom_JayMwK": {
+          "type": "productcustom",
+          "settings": {
+            "width": "33%",
+            "title": "New arrivals",
+            "collection": "brakes-system",
+            "limit": 12,
+            "perviewDesktop": 1,
+            "perviewTablet": 1,
+            "perviewMobile": 1,
+            "rowviewDesktop": 3,
+            "spaceBetween": 0,
+            "arrows": true
+          }
+        },
+        "promo_6dqaY7": {
+          "type": "promo",
+          "settings": {
+            "width": "33%",
+            "align": "auto",
+            "sub_title_block": "",
+            "title_block": "",
+            "promo_banner_height": 440,
+            "image": "shopify://shop_images/a-h2-adv.jpg",
+            "promo_subheading": "brake system",
+            "promo_heading": "<sp>\nfor safe \n<br>\ndriving\n</sp>",
+            "promo_paragraph": "From \n<strong style=\"\n    font-size: 24px;\n    line-height: 20px;\n    font-weight: 900;\n    color: var(--g-main-2);\n\">\n$199.99\n</strong>",
+            "promo_btn": "shop now",
+            "promo_link": "",
+            "promo_color": "#ffffff",
+            "promo_size_title": "h3",
+            "promo_position": "top-left",
+            "scroll_type": "from-right",
+            "code": "",
+            "speed": 10,
+            "content_title": "",
+            "btn_countdown": "",
+            "data_countdown": "",
+            "padding-left": false,
+            "padding-right": false
+          }
+        },
+        "productcustom_GN3FmP": {
+          "type": "productcustom",
+          "settings": {
+            "width": "33%",
+            "title": "best seller",
+            "collection": "electric",
+            "limit": 12,
+            "perviewDesktop": 1,
+            "perviewTablet": 1,
+            "perviewMobile": 1,
+            "rowviewDesktop": 3,
+            "spaceBetween": 0,
+            "arrows": true
+          }
+        }
+      },
+      "block_order": [
+        "productcustom_JayMwK",
+        "promo_6dqaY7",
+        "productcustom_GN3FmP"
+      ],
+      "name": "Advanced Content",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "text_color": "rgba(0,0,0,0)",
+        "bgsection": "#f5f5f5",
+        "rangebg": 0,
+        "bgbefore": "rgba(0,0,0,0)",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "zindex": "0",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "padding_column": "custom",
+        "distance_col": "15",
+        "col_center": false,
+        "paddingsection": "0px 0px 50px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "brand_swiper_TDNdig": {
+      "type": "brand-swiper",
+      "blocks": {
+        "logo_w4U3zF": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_6.jpg",
+            "link": ""
+          }
+        },
+        "logo_RrBgWi": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_5.jpg",
+            "link": ""
+          }
+        },
+        "logo_NMApbK": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_4.jpg",
+            "link": ""
+          }
+        },
+        "logo_3W8jXm": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_3.jpg",
+            "link": ""
+          }
+        },
+        "logo_gCByfR": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_2.jpg",
+            "link": ""
+          }
+        },
+        "logo_A9YKJR": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_1.jpg",
+            "link": ""
+          }
+        },
+        "logo_JHfMca": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/a-h2-logo_6.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_w4U3zF",
+        "logo_RrBgWi",
+        "logo_NMApbK",
+        "logo_3W8jXm",
+        "logo_gCByfR",
+        "logo_A9YKJR",
+        "logo_JHfMca"
+      ],
+      "custom_css": [
+        ".brand-sw-wrapper {background-color: #fff;}"
+      ],
+      "name": "Logo swiper",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#f5f5f5",
+        "title_top": "",
+        "title": "parts by brand",
+        "des": "",
+        "button_heading": "",
+        "link_heading": "",
+        "style_btn": "btn-underline",
+        "align-heading": "left",
+        "perviewDesktop": 6,
+        "perviewTablet": 3,
+        "perviewMobile": 1,
+        "spaceBetween": 0,
+        "nowrap": false,
+        "arrows": false,
+        "arrow_heading": true,
+        "scrollbar": false,
+        "width_image": 100,
+        "paddingsection": "0px 0px 50px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "advanced_content_hedhRk": {
+      "type": "advanced-content",
+      "blocks": {
+        "text_JWwJ7b": {
+          "type": "text",
+          "settings": {
+            "width": "50%",
+            "bg_text": "#ffffff",
+            "padding_text": "58px 0px 0px 80px",
+            "subtitle": "<sp class=\"fw-medium\">\nabout us\n</sp>",
+            "title": "<sp style=\"text-transform:none;\">\nLeading supplier of auto parts\n<br>\n for the vehicles\n</sp>",
+            "size_text": "h3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do \n<br>\neiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad \n<br>\nminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex \n<br>\nea commodo consequat.\n\n<sp style=\"\n    align-items: center;\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px 60px;\n    margin-top: 11px;\n\">\n<sp style=\"\n    flex: 0 1 auto;\n\">\n<sp class=\"h1 d-block\" style=\"\n    color: var(--g-main-2);\n\">\n98%\n</sp>\n<sp style=\"font-weight: 800;color: #000;\">\nCustomer Satisfaction\n</sp>\n</sp>\n<sp style=\"\n    flex: 0 1 auto;\n\">\n<sp class=\"h6 d-block\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewbox=\"0 0 20 20\" fill=\"none\" style=\"\n    width: 20px;\n    height: 20px;\n    margin-right: 5px;\n    vertical-align: -4px;\n\">\n<path d=\"M12.5 0C10.875 0 9.125 0 7.5 0C3 0.5 0.5 3 0 7.5C0 9.125 0 10.875 0 12.5C0.5 17 3 19.5 7.5 20C9.125 20 10.875 20 12.5 20C17 19.5 19.5 17 20 12.5C20 10.875 20 9.125 20 7.5C19.5 3 17 0.5 12.5 0ZM14.75 8.375L10.125 13.375C9.625 13.875 8.875 13.875 8.375 13.5L5.5 11C5 10.5 4.875 9.625 5.375 9.125C5.875 8.625 6.625 8.625 7.125 9L9 10.75L12.875 6.625C13.375 6.125 14.125 6.125 14.625 6.625C15.125 7 15.25 7.875 14.75 8.375Z\" fill=\"#4158F2\"></path>\n</svg>\nProfessional service\n</sp>\nUt enim ad minim veniam, quis\n<br>\n nostrud exercitation\n</sp>\n</sp>",
+            "style_btn": "btn-underline btn-underline-white",
+            "size_btn": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "image_wTMT7Y": {
+          "type": "image",
+          "settings": {
+            "width": "50%",
+            "align": "auto",
+            "image": "shopify://shop_images/a-img-page.jpg",
+            "width_image": 100,
+            "image_link": "",
+            "enable_top": false,
+            "code": "",
+            "padding-left": false,
+            "padding-right": false
+          }
+        }
+      },
+      "block_order": [
+        "text_JWwJ7b",
+        "image_wTMT7Y"
+      ],
+      "custom_css": [
+        ".row {gap: 20px 0;}"
+      ],
+      "name": "Advanced Content",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "text_color": "rgba(0,0,0,0)",
+        "bgsection": "#f5f5f5",
+        "rangebg": 0,
+        "bgbefore": "rgba(0,0,0,0)",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "zindex": "0",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "padding_column": "0",
+        "distance_col": "15",
+        "col_center": false,
+        "paddingsection": "0px 0px 55px 0px",
+        "paddingtablet": "0px 0px 55px 0px",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "featured_articles_2_jMCPzi": {
+      "type": "featured-articles-2",
+      "name": "Blog posts special",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "zindex": "0",
+        "bgsection": "#f5f5f5",
+        "rangebg": 0,
+        "bgbefore": "#e3c9b8",
+        "title_top": "",
+        "title": "<h4>\ntips & tricks\n</h4>",
+        "des": "",
+        "button_heading": "",
+        "link_heading": "",
+        "style_btn": "btn-underline btn-underline-white",
+        "align-heading": "left",
+        "blog": "news",
+        "button_text": "read more",
+        "image_size": "auto",
+        "reverse": false,
+        "paddingsection": "0px 0px 50px 0px",
+        "paddingtablet": "",
+        "paddingmobile": "0px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    }
+  },
+  "order": [
+    "service_qTMLfj",
+    "grid_banner_k3wbkE",
+    "featured_collections_7_rwVCyJ",
+    "product_tab_3_KW3KMV",
+    "product_tab_3_jqcfeg",
+    "product_tab_3_XyrNdQ",
+    "parallax_banner_w8H3fq",
+    "advanced_content_xqyWdR",
+    "brand_swiper_TDNdig",
+    "advanced_content_hedhRk",
+    "featured_articles_2_jMCPzi"
+  ]
+}
