@@ -201,14 +201,12 @@
             "menu_banner_width": 70,
             "menu_banner_height": 300,
             "menu_banner_size_title": "h4",
-            "menu_banner_image_1": "shopify://shop_images/b-blog-1.jpg",
             "menu_banner_position_text_1": "bot-left",
             "menu_banner_subheading_1": "All Styles",
             "menu_banner_heading_1": "Min. 65% Off",
             "menu_banner_paragraph_1": "",
             "menu_banner_btn_1": "Discover now",
             "menu_banner_link_1": "shopify://collections",
-            "menu_banner_image_2": "shopify://shop_images/b-blog-2.jpg",
             "menu_banner_position_text_2": "bot-left",
             "menu_banner_subheading_2": "Lingerie",
             "menu_banner_heading_2": "Flat 50% Off",
@@ -232,7 +230,6 @@
             "enable_menu_banner": true,
             "image_size": "wide",
             "menu_banner_width": 30,
-            "menu_banner_image_1": "shopify://shop_images/a-img-page_2_6b0df94c-9be6-493b-af7a-6e98c088523f.jpg",
             "menu_banner_html_1": "<h5 class=\"mb-0\">Flat 50% Off</h5>\n<p>Our products are designed for everyone.</p>",
             "menu_banner_btn_1": "Shop now",
             "menu_banner_link_1": "shopify://collections",
@@ -267,7 +264,7 @@
           "settings": {
             "text_topbar_left": "Hi! Welcome to Autozpro online store.",
             "text_topbar": "",
-            "link_list": "top-bar"
+            "link_list": ""
           }
         }
       },
@@ -280,7 +277,6 @@
         "topbar_DLyJGM"
       ],
       "settings": {
-        "logo": "shopify://shop_images/logo_1.png",
         "logo_max_width": 188,
         "enable_transparent": false,
         "hover_transparent": false,
@@ -307,12 +303,12 @@
         "menudropbg": "#ffffff",
         "menudropborder": "#f1f1f1",
         "main_linklist": "main-menu",
-        "menu_categories": "shop-by-category",
+        "menu_categories": "",
         "font_family_menu": "--g-font-1",
         "font_sizemenu": "14px",
-        "font_weight": "900",
+        "font_weight": "400",
         "menu_spacing": 0,
-        "type_menu": "uppercase",
+        "type_menu": "lowercase",
         "menu_active": "thin-line",
         "menu_label_text": "#ffffff",
         "menu_label_new": "#01bad4",
@@ -351,7 +347,6 @@
       "block_order": [
         "118ade0e-615d-4bf4-83b4-e6bf6f2a6549"
       ],
-      "disabled": true,
       "settings": {
         "enable": false,
         "enable_homepage": false,
