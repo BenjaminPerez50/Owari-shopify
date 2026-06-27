@@ -105,167 +105,75 @@
         "marginmobile": "0px 0px 0px 0px"
       }
     },
-    "grid_banner_k3wbkE": {
-      "type": "grid-banner",
+    "brand_carousel_D3B4B9": {
+      "type": "brand-carousel",
       "blocks": {
-        "banner_nYyCJQ": {
-          "type": "banner",
+        "logo_6Vem8Q": {
+          "type": "logo",
           "settings": {
-            "width": "6",
-            "subtitle": "<sp style=\"font-weight:800;\">\nbuy more, get more\n</sp>",
-            "color_subtitle": "#4158f2",
-            "title": "original\n<br>\nengine oil",
-            "color_heading": "#000000",
-            "size_text": "h2",
-            "description": "Free shipping on all products",
-            "bg_color": "#000000",
-            "colordef": "#000000",
-            "opacity_bg": 0,
-            "style_btn": "btn-underline btn-underline-white",
-            "size_btn": "",
-            "button_text": "",
-            "button_link": "",
-            "vertical": "mid",
-            "horizontal": "left",
-            "text_align": "left"
+            "link": ""
           }
         },
-        "banner_FajybQ": {
-          "type": "banner",
+        "logo_L6BVXX": {
+          "type": "logo",
           "settings": {
-            "width": "6",
-            "subtitle": "",
-            "color_subtitle": "#ffffff",
-            "title": "<sp style=\"\n    display: block;\n    font-weight: 500;\n\">\nnew\n<br>\naccessories\n</sp>\nare here",
-            "color_heading": "#ffffff",
-            "size_text": "h2",
-            "description": "<sp style=\"\n    text-transform: uppercase;\n    font-weight: 800;\n\">\nup to 30% off\n</sp>",
-            "bg_color": "rgba(0,0,0,0)",
-            "colordef": "#ffc122",
-            "opacity_bg": 0,
-            "style_btn": "btn-underline btn-underline-white",
-            "size_btn": "",
-            "button_text": "",
-            "button_link": "",
-            "vertical": "mid",
-            "horizontal": "left",
-            "text_align": "left"
+            "link": ""
+          }
+        },
+        "logo_QBt7pe": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_PzWnKy": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_feWN8j": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_Kqaat4": {
+          "type": "logo",
+          "settings": {
+            "link": ""
           }
         }
       },
       "block_order": [
-        "banner_nYyCJQ",
-        "banner_FajybQ"
+        "logo_6Vem8Q",
+        "logo_L6BVXX",
+        "logo_QBt7pe",
+        "logo_PzWnKy",
+        "logo_feWN8j",
+        "logo_Kqaat4"
       ],
-      "name": "Grid banner",
+      "name": "Marcas",
       "settings": {
-        "animation": "fade",
+        "animation": "",
         "setwidth": "container",
         "bgsection": "#ffffff",
         "title_top": "",
-        "title": "",
-        "des": "",
+        "title": "marcas",
+        "des": "Gran variedad de marcas a un exelente precio.",
         "align-heading": "center",
-        "no_gutter": false,
-        "show_overlay": true,
-        "gradient_overlay": true,
-        "bg_overlay": "#000000",
-        "opacity_overlay": 0.4,
-        "padding_inner": "0px 46px 0px 46px",
-        "paddingsection": "0px 0px 50px 0px",
-        "paddingtablet": "",
-        "paddingmobile": "0px 0px 20px 0px",
-        "marginsection": "0px 0px 0px 0px",
-        "margintablet": "",
-        "marginmobile": "0px 0px 0px 0px"
-      }
-    },
-    "featured_collections_7_rwVCyJ": {
-      "type": "featured-collections-7",
-      "blocks": {
-        "collection_N3X4Ec": {
-          "type": "collection",
-          "settings": {
-            "collection": "lighting"
-          }
-        },
-        "collection_dVig6G": {
-          "type": "collection",
-          "settings": {
-            "collection": "seat-parts"
-          }
-        },
-        "collection_9qk3fc": {
-          "type": "collection",
-          "settings": {
-            "collection": "filters"
-          }
-        },
-        "collection_pYfVHY": {
-          "type": "collection",
-          "settings": {
-            "collection": "exhaust-system"
-          }
-        },
-        "collection_33qcim": {
-          "type": "collection",
-          "settings": {
-            "collection": "wheels-tires"
-          }
-        },
-        "collection_xMpR46": {
-          "type": "collection",
-          "settings": {
-            "collection": "suspension-systems"
-          }
-        },
-        "collection_H8tpky": {
-          "type": "collection",
-          "settings": {
-            "collection": "brakes-system"
-          }
-        },
-        "collection_tEtj6q": {
-          "type": "collection",
-          "settings": {
-            "collection": "electric"
-          }
-        }
-      },
-      "block_order": [
-        "collection_N3X4Ec",
-        "collection_dVig6G",
-        "collection_9qk3fc",
-        "collection_pYfVHY",
-        "collection_33qcim",
-        "collection_xMpR46",
-        "collection_H8tpky",
-        "collection_tEtj6q"
-      ],
-      "name": "Collection list slide",
-      "settings": {
-        "animation": "fade",
-        "setwidth": "container",
-        "bgsection": "#ffffff",
-        "title_top": "",
-        "title": "",
-        "des": "",
-        "align-heading": "center",
-        "space": 5,
-        "size_text": "p",
-        "bg_item": "#f5f5f5",
-        "enable_carousel": true,
-        "show": 4,
-        "rows": "2",
-        "size_image": "auto",
-        "width_custom": "50",
+        "grayscale": true,
         "arrows": false,
         "draggable": true,
-        "dots": false,
+        "dots": true,
         "infinite": true,
+        "width_image": 70,
+        "slidestoshow": 5,
+        "slidescroll": 1,
+        "rows": "1",
         "paddingsection": "0px 0px 50px 0px",
         "paddingtablet": "",
-        "paddingmobile": "0px 0px 10px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
         "marginsection": "0px 0px 0px 0px",
         "margintablet": "",
         "marginmobile": "0px 0px 0px 0px"
@@ -306,7 +214,7 @@
         "animation": "fade",
         "setwidth": "container",
         "bgsection": "#f5f5f5",
-        "title": "body & trim",
+        "title": "Nikko Autoparts",
         "button_heading": "View All",
         "link_heading": "shopify://collections",
         "style_btn": "btn-underline",
@@ -317,7 +225,7 @@
         "title_banner": "<sp style=\"\n    font-weight: 500;\n    display: block;\n\">\nworldwide\n</sp>\ndelivery",
         "color_title": "#ffffff",
         "size_text": "h3",
-        "button": "shop now",
+        "button": "Ver",
         "link": "shopify://collections/all",
         "style_btn_banner": "btn-underline btn-underline-white",
         "limit": 10,
@@ -371,7 +279,7 @@
         "animation": "fade",
         "setwidth": "container",
         "bgsection": "#f5f5f5",
-        "title": "electrical parts",
+        "title": "KAbuto Autoparts",
         "button_heading": "View All",
         "link_heading": "shopify://collections",
         "style_btn": "btn-underline",
@@ -382,7 +290,7 @@
         "title_banner": "<sp style=\"\n    font-weight: 500;\n    display: block;\n\">\nbig brands\n</sp>\nhot price",
         "color_title": "#ffffff",
         "size_text": "h3",
-        "button": "shop now",
+        "button": "Ver",
         "link": "shopify://collections/all",
         "style_btn_banner": "btn-underline btn-underline-white",
         "limit": 10,
@@ -783,8 +691,7 @@
   },
   "order": [
     "service_qTMLfj",
-    "grid_banner_k3wbkE",
-    "featured_collections_7_rwVCyJ",
+    "brand_carousel_D3B4B9",
     "product_tab_3_KW3KMV",
     "product_tab_3_jqcfeg",
     "product_tab_3_XyrNdQ",

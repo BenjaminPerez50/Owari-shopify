@@ -133,6 +133,7 @@
     "enable_compare": true,
     "enable_wishlist": true,
     "page_wishlist": "wishlist",
+    "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
     "productgrid": "product-2",
@@ -209,6 +210,7 @@
     "coupon_code_content": "<p><strong>december</strong> → 20% off 14 collections</p><p><strong>lotita</strong> → 10% off No usage limits</p><p>Coupon code will work on checkout page</p>",
     "free_shipping_enable": true,
     "free_shipping_value": 1000,
+    "free_first": "Hola",
     "free_end": "for Free Shipping",
     "free_shipping_text": "Your order is free delivery !",
     "shipping_calculator": true,
@@ -640,6 +642,7 @@
         "blocks": {
           "1561259906467": {
             "type": "image",
+            "name": "hero-img",
             "settings": {
               "alignment": "center center",
               "text_alignment": "center center",
@@ -657,7 +660,7 @@
               "subheading": "Ofrecemos los mejores productos\n<br>\nSomos un distribuidor mayorista de autopartes,\n<br>\natendemos refaccionarias y distribuidores.",
               "subheading_color": "#ffffff",
               "description_html": "",
-              "button_label": "Catalogos",
+              "button_label": "Obtener catálogos",
               "button_link": "shopify://collections/frontpage",
               "stylebtns": "btn-theme",
               "bg_button": "#FFC122",
@@ -675,6 +678,7 @@
           },
           "search_filter_JrRYct": {
             "type": "search-filter",
+            "disabled": true,
             "settings": {
               "bg_title_filter": "#ffffff",
               "title_search": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"18\" viewBox=\"0 0 26 18\" fill=\"none\" style=\"\n    width: 26px;\n    height: 18px;\n\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.28257 5.89097C10.218 6.90815 15.7783 6.90815 21.7174 5.89097C20.9671 4.25559 20.1389 2.72804 18.7497 2.21765H7.25029C5.86114 2.72804 5.03657 4.25559 4.28257 5.89097ZM10.3703 12.9788C10.1809 12.9788 9.99514 13.1621 9.99514 13.3419V14.1434C9.99514 14.3267 10.1846 14.5064 10.3703 14.5064H15.6297C15.8191 14.5064 16.0049 14.3231 16.0049 14.1434V13.3419C16.0049 13.1585 15.8154 12.9788 15.6297 12.9788H10.3703ZM5.41171 16.2532V16.8714C5.41171 17.4896 4.84714 18 4.134 18H1.54143C0.828286 18 0.263714 17.4896 0.263714 16.8714V13.7804C0.115143 13.6725 0 13.4892 0 13.27V12.2169C0 11.9976 0.111429 11.8179 0.263714 11.6705V8.28834C0.263714 7.30711 0.939714 6.46965 1.91657 6.10663C3.12 3.30671 4.54629 0.83746 6.94943 0H19.0469C21.4537 0.83746 22.88 3.3103 24.0834 6.10663C25.0603 6.46965 25.7363 7.30711 25.7363 8.28834V11.6705C25.8849 11.8143 26 11.9976 26 12.2169V13.27C26 13.4892 25.8886 13.6689 25.7363 13.7804V16.8714C25.7363 17.4896 25.1717 18 24.4586 18H21.866C21.1529 18 20.5883 17.4896 20.5883 16.8714V16.2532C16.0049 15.3079 9.99514 15.3079 5.41171 16.2532ZM23.972 12.7991V11.383C23.634 11.0559 23.1437 10.9121 22.3563 11.0559C21.268 11.5268 20.1389 11.9653 19.0506 12.4002C18.824 12.871 18.8611 13.2017 19.3514 13.3454C21.6431 13.5252 23.4817 13.4892 23.972 12.7991ZM2.028 12.7991V11.383C2.366 11.0559 2.89343 10.9121 3.64371 11.0559C4.732 11.5268 5.86114 11.9653 6.94943 12.4002C7.176 12.871 7.13886 13.2017 6.68571 13.3454C4.35686 13.5252 2.51829 13.4892 2.028 12.7991Z\" fill=\"#FFC122\"></path>\n</svg>\n\nSelect\nYour Vehicle",
@@ -697,6 +701,7 @@
         "custom_css": [
           ".slideshow {border-radius: 0;}"
         ],
+        "name": "img-hero",
         "settings": {
           "enable_slideshow": true,
           "setwidthout": "full",
