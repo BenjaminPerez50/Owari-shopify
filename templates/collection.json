@@ -21,7 +21,6 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "img_bannercollection": "shopify:\/\/shop_images\/a-bread.jpg",
         "style_banner": "full",
         "heading_size": "h2",
         "img_height": "250px",
@@ -153,36 +152,31 @@
         "template--17739035869502__ea7af2bd-7a4c-4129-ae32-bacb42814742-167584089359f62679-0": {
           "type": "collection",
           "settings": {
-            "collection": "brakes-system",
-            "image": "shopify:\/\/shop_images\/b-blog-1.jpg"
+            "collection": "suspension-y-direccion"
           }
         },
         "2f3b8aad-10de-480a-a5d8-f03f00650840": {
           "type": "collection",
           "settings": {
-            "collection": "seat-parts",
-            "image": "shopify:\/\/shop_images\/b-blog-2.jpg"
+            "collection": "seat-parts"
           }
         },
         "template--17739035869502__ea7af2bd-7a4c-4129-ae32-bacb42814742-167584089359f62679-1": {
           "type": "collection",
           "settings": {
-            "collection": "electric",
-            "image": "shopify:\/\/shop_images\/b-blog-3.jpg"
+            "collection": "electric"
           }
         },
         "template--17739035869502__ea7af2bd-7a4c-4129-ae32-bacb42814742-167584089359f62679-2": {
           "type": "collection",
           "settings": {
-            "collection": "exhaust-system",
-            "image": "shopify:\/\/shop_images\/b-blog-4.jpg"
+            "collection": "exhaust-system"
           }
         },
         "1e3656fa-e08a-43ca-ab4a-ae2571025870": {
           "type": "collection",
           "settings": {
-            "collection": "filters",
-            "image": "shopify:\/\/shop_images\/b-blog-5.jpg"
+            "collection": "filters"
           }
         }
       },
