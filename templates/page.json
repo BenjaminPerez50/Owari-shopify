@@ -12,9 +12,74 @@
     "main": {
       "type": "main-page",
       "settings": {}
+    },
+    "178412450686afd16c": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_8b7bbd5_xYzFyz": {
+          "type": "ai_gen_block_8b7bbd5",
+          "settings": {
+            "video_url": "",
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "controls": false,
+            "video_border_radius": 8,
+            "heading": "<h3>Nuestra historia</h3>",
+            "description": "<h6>Trabajamos desde hace 15 años con refacciones.</h6><p></p>",
+            "heading_size": 32,
+            "text_size": 16,
+            "heading_color": "#000000",
+            "text_color": "#555555",
+            "text_gap": 16,
+            "button_text": "Ver más",
+            "button_link": "",
+            "button_bg_color": "#ffc122",
+            "button_text_color": "#000000",
+            "button_bg_hover_color": "#4158f2",
+            "button_text_hover_color": "#ffffff",
+            "button_text_size": 14,
+            "button_padding_vertical": 14,
+            "button_padding_horizontal": 28,
+            "button_border_radius": 3,
+            "layout": "row",
+            "gap": 40,
+            "section_padding": 40,
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_8b7bbd5_xYzFyz"
+      ],
+      "settings": {}
+    },
+    "rich_text_aDGXnp": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "gradient_bg": "",
+        "title_color": "transparent",
+        "title_top": "",
+        "title": "",
+        "text": "<h2>Generando relaciones poderosas para un ganar ganar</h2>",
+        "align-heading": "center",
+        "paddingsection": "25px 25px 25px 25px",
+        "paddingtablet": "",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "margintablet": "",
+        "marginmobile": "0px 0px 0px 0px"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "178412450686afd16c",
+    "rich_text_aDGXnp"
   ]
 }
