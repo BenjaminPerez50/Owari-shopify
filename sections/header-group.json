@@ -14,35 +14,26 @@
     "announcement-bar-slide": {
       "type": "announcement-bar-slide",
       "blocks": {
-        "a00daf6f-fb1c-4351-80dc-24e405bf630e": {
+        "item_76rdjq": {
           "type": "Item",
           "settings": {
-            "code": "We've got you covered with UPF protection.",
-            "button_text": "shop now",
-            "button_link": "shopify://collections"
-          }
-        },
-        "item_gEjp6c": {
-          "type": "Item",
-          "settings": {
-            "code": "up to 45% off select clothing.",
+            "code": "Use HTML to format your text so it can be easily read.",
             "button_text": "Shop Now",
             "button_link": ""
           }
         },
-        "item_twGrxT": {
+        "item_Q8QYtV": {
           "type": "Item",
           "settings": {
-            "code": "gear up for summer adventure.",
+            "code": "Use HTML to format your text so it can be easily read.",
             "button_text": "Shop Now",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "a00daf6f-fb1c-4351-80dc-24e405bf630e",
-        "item_gEjp6c",
-        "item_twGrxT"
+        "item_76rdjq",
+        "item_Q8QYtV"
       ],
       "disabled": true,
       "settings": {
@@ -54,65 +45,9 @@
         "size_icon": 24,
         "speed": 10,
         "scroll_type": "from-right",
-        "background": "#7c9d4c",
+        "background": "#000000",
         "gradient_bg": "",
         "text": "#ffffff"
-      }
-    },
-    "scrolling_text_nRCERa": {
-      "type": "scrolling-text",
-      "blocks": {
-        "item_pBDW76": {
-          "type": "item",
-          "settings": {
-            "code": "up to 30% off everything"
-          }
-        },
-        "item_mwRTMh": {
-          "type": "item",
-          "settings": {
-            "code": "Register to enjoy 10% off* your first online order"
-          }
-        },
-        "item_CMJeFr": {
-          "type": "item",
-          "settings": {
-            "code": "free delivery for next 3 orders"
-          }
-        },
-        "item_GM3kfY": {
-          "type": "item",
-          "settings": {
-            "code": "20% off most loveled - new lines added"
-          }
-        }
-      },
-      "block_order": [
-        "item_pBDW76",
-        "item_mwRTMh",
-        "item_CMJeFr",
-        "item_GM3kfY"
-      ],
-      "disabled": true,
-      "settings": {
-        "animation": "fade",
-        "size_text": "subtop",
-        "text_style": "solid",
-        "text_transform": "uppercase",
-        "speed": 10,
-        "scroll_type": "from-right",
-        "background": "#22201d",
-        "gradient_bg": "",
-        "text": "#ffffff",
-        "size_icon": 16,
-        "radius_image": 0,
-        "space_image": "mx-4",
-        "paddingsection": "9px 0px 9px 0px",
-        "paddingtablet": "",
-        "paddingmobile": "9px 0px 9px 0px",
-        "marginsection": "0px 0px 0px 0px",
-        "margintablet": "",
-        "marginmobile": "0px 0px 0px 0px"
       }
     },
     "header": {
@@ -294,12 +229,12 @@
         "menudroptext": "#ffffff",
         "menudropbg": "#ffffff",
         "menudropborder": "#f1f1f1",
-        "main_linklist": "nav",
+        "main_linklist": "navegaci-n",
         "menu_categories": "",
         "font_family_menu": "--g-font-1",
         "font_sizemenu": "14px",
         "font_weight": "700",
-        "menu_spacing": 0,
+        "menu_spacing": 0.1,
         "type_menu": "uppercase",
         "menu_active": "thick-line",
         "menu_label_text": "#ffffff",
@@ -355,7 +290,6 @@
   },
   "order": [
     "announcement-bar-slide",
-    "scrolling_text_nRCERa",
     "header",
     "store-messages"
   ]

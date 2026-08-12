@@ -143,7 +143,6 @@
         },
         "a405ef88-bdbe-486d-9fb3-6c91aa4e1509": {
           "type": "tabfix",
-          "disabled": true,
           "settings": {
             "enable_tabvertical": false,
             "gtab_des": "Description",
@@ -161,7 +160,6 @@
         },
         "51f9d856-95f4-4741-bf4d-afe15438ff29": {
           "type": "related-product",
-          "disabled": true,
           "settings": {
             "title_heading": "Related products",
             "product_list": [
@@ -319,7 +317,6 @@
         "setwidth": "full",
         "bgsection": "#ffffff",
         "parrallax_enable": false,
-        "image": "shopify://shop_images/a-img-page_2.jpg",
         "height_section": "448",
         "height_section_mobile": "450",
         "align": "center",
@@ -349,7 +346,6 @@
             "w_image": 25,
             "pos_image": 50,
             "e_image": "right",
-            "image": "shopify://shop_images/a-img-page.jpg",
             "enable_video": false,
             "text_circle": "Fashion2 style store",
             "video_url": ""
@@ -482,8 +478,7 @@
             "quote": "<h4>“Absolutely loved it. The fit, the quality and the color. This is a slim fit jean like none other and the only one I will buy.”</h4>",
             "rate": 5,
             "author": "— Susan P.",
-            "info": "",
-            "avatar": "shopify://shop_images/b-blog-6.jpg"
+            "info": ""
           }
         },
         "template--14684877652053__70b7f2d2-4c12-4305-88bd-da89e2d18d5b-1665853262e19e6bf8-1": {
@@ -493,8 +488,7 @@
             "quote": "<h4>“ The most comfortable shoes ever!! I have them in 3 colors. And I am not done. \"</h4>",
             "rate": 5,
             "author": "—  Jaycie Glove",
-            "info": "",
-            "avatar": "shopify://shop_images/b-blog-5.jpg"
+            "info": ""
           }
         },
         "template--14684877652053__70b7f2d2-4c12-4305-88bd-da89e2d18d5b-1665853262e19e6bf8-2": {
@@ -504,8 +498,7 @@
             "quote": "<h4>\" I love Lola! They're one of my favorite brands. Customer service is excellent. I have only returned items once and it was so easy. \" </h4>",
             "rate": 5,
             "author": "—  Kai Felix",
-            "info": "",
-            "avatar": "shopify://shop_images/b-blog-4.jpg"
+            "info": ""
           }
         }
       },

@@ -71,6 +71,7 @@
     .footer-sub .row {
       gap: 30px 0;
     }
+    
     @media (max-width: 991px) {
       .footer-center-contact.text-right {
         text-align: center !important;
@@ -80,7 +81,7 @@
 
 <div class="{{ section.settings.setwidth }}">
     <div id="footer-center{{ section.id }}" class="custom-{{ section.id }} footer-sub">
-        <div class="row">
+        <div class="row" style="flex-direction: column !important;">
             {%- for block in section.blocks -%}
             <style>
               {% if block.settings.width_mobile != blank %}
